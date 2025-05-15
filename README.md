@@ -1,16 +1,126 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Paras Temkar 👋</h1>
+<p align="center">
+🧬 Biotech Grad • 💻 Developer • 🔬 Science x Software
+</p>
 
-<!--
-**ParasTemkar/ParasTemkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="www.linkedin.com/in/parastemkar">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/ParasTemkar">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white">
+  </a>
+  <a href="mailto:parastemkar@outlook.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+**Biotechnology graduate building tools at the intersection of life sciences, web development, and data.**
+With hands-on research experience and a solid foundation in biology, I understand the unique challenges in healthcare, biotech, and education — and I’m learning to solve them with software.
+
+* 💡 Learning full-stack development, data analysis, and bioinformatics
+* 🧠 Bridging biology and code to build real, impactful tools
+* 🤝 Open to internships, collaborations, and entry-level roles in scientific software, web dev, or data roles
+
+---
+
+## 🔧 Tech Stack
+
+<p align="left">
+  <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">HTML5</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">CSS3</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">JavaScript</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">Webpack</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">Babel</figcaption>
+  </figure>
+    <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">npm</figcaption>
+  </figure>
+    <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">MySQL</figcaption>
+  </figure>
+    <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">Python</figcaption>
+  </figure>
+    <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">R</figcaption>
+  </figure>
+    <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">Git</figcaption>
+  </figure>
+  <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">GitHub</figcaption>
+  </figure>
+</p>
+
+---
+
+## 🛠️ Projects (WIP)
+
+| Project                                                        | Tech                | Description                            |
+| -------------------------------------------------------------- | ------------------- | -------------------------------------- |
+| 🔢 [Calculator](https://yourgithub.github.io/calculator)       | JS, HTML, CSS       | Chaining ops, clean layout, zero error |
+| 📋 [Library App](https://yourgithub.github.io/library)         | JS, DOM, OOP        | Dynamic CRUD for books                 |
+| 📟 [Sign-Up Form](https://yourgithub.github.io/signup-form)    | HTML/CSS            | Flexbox form, custom validations       |
+| 📊 [Admin Dashboard](https://yourgithub.github.io/dashboard)   | CSS Grid            | Responsive grid-based UI               |
+| 🍽️ [Restaurant Page](https://yourgithub.github.io/restaurant) | Modular JS, Webpack | Multi-page SPA w/ Webpack modules      |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParasTemkar&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ParasTemkar&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParasTemkar&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🧠 Learning Journey
+
+* ✅ HTML/CSS/JavaScript Fundamentals
+* ✅ SQL, python, R
+* ⚖️ Currently: React, Pandas, Power BI
+* 🔢 Next: Node JS, Tailwind CSS, MongoDB, tableau.
+* 🌟 Long-Term: Build scientific tools for labs, clinics, and classrooms
+
+---
+
+## 🤝 Let’s Connect
+
+* 💼 LinkedIn: www.linkedin.com/in/parastemkar
+* 🌐 Portfolio: https://github.com/ParasTemkar
+* 📨 Mail: parastemkar@outlook.com
+
+---
+
+<p align="center">
+  <i>"Learning publicly. Coding loudly. Building software for science."</i>
+</p>
