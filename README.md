@@ -30,7 +30,7 @@ With hands-on research experience and a solid foundation in biology, I understan
 
 ## 🔧 Tech Stack
 
-<div align="lft">
+<div align="left">
   <figure style="margin-bottom: 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" />
     <figcaption style="text-align: center; font-size: small;">HTML5</figcaption>
