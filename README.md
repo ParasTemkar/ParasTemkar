@@ -30,58 +30,56 @@ With hands-on research experience and a solid foundation in biology, I understan
 
 ## 🔧 Tech Stack
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60"><br>
-      <sub>HTML5</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60"><br>
-      <sub>CSS3</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"><br>
-      <sub>JavaScript</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="60" height="60"><br>
-      <sub>Webpack</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" width="60" height="60"><br>
-      <sub>Babel</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="60" height="60"><br>
-      <sub>npm</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"><br>
-      <sub>MySQL</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"><br>
-      <sub>Python</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="60" height="60"><br>
-      <sub>R</sub>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60"><br>
-      <sub>Git</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60"><br>
-      <sub>GitHub</sub>
-    </td>
-  </tr>
-</table>
+<div style="display:flex">
+  <figure style="margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">HTML5</figcaption>
+  </figure>
+  <figure style="margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">CSS3</figcaption>
+  </figure>
+  <figure style="margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">JavaScript</figcaption>
+  </figure>
+  <figure style="margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">Webpack</figcaption>
+  </figure>
+  <figure style="margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">Babel</figcaption>
+  </figure>
+  <figure style="margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">npm</figcaption>
+  </figure>
+  <figure style="margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">MySQL</figcaption>
+  </figure>
+  <figure style="margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">Python</figcaption>
+  </figure>
+  <figure style="margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">R</figcaption>
+  </figure>
+  <figure style="margin-bottom: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" />
+    <figcaption style="text-align: center; font-size: small;">Git</figcaption>
+  </figure>
+  <figure style="margin-bottom: 0;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+       alt="GitHub"
+       width="60"
+       height="60"
+       style="filter: drop-shadow(0 0 0 #ffffff);">
+  <figcaption style="text-align: center; font-size: small;">GitHub</figcaption>
+</figure>
+</div>
 
 ---
 
