@@ -30,48 +30,48 @@ With hands-on research experience and a solid foundation in biology, I understan
 
 ## 🔧 Tech Stack
 
-<p align="left">
-  <div style="display:inline-block; text-align:center; margin-right:20px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="80" height="80" />
     <div>HTML5</div>
   </div>
-  <div style="display:inline-block; text-align:center; margin-right:20px;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="80" height="80" />
     <div>CSS3</div>
   </div>
-  <div style="display:inline-block; text-align:center; margin-right:20px;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" />
     <div>JavaScript</div>
   </div>
-  <div style="display:inline-block; text-align:center; margin-right:20px;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="80" height="80" />
     <div>Webpack</div>
   </div>
-  <div style="display:inline-block; text-align:center; margin-right:20px;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="80" height="80" />
     <div>Babel</div>
   </div>
-  <div style="display:inline-block; text-align:center; margin-right:20px;">
+  <div style="text-align: center;">
     <img src="https://cdn.simpleicons.org/mysql/00758F" alt="SQL" width="80" height="80" />
     <div>SQL</div>
   </div>
-  <div style="display:inline-block; text-align:center; margin-right:20px;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80" />
     <div>Python</div>
   </div>
-  <div style="display:inline-block; text-align:center; margin-right:20px;">
+  <div style="text-align: center;">
     <img src="https://cdn.simpleicons.org/r/276DC3" alt="R" width="80" height="80" />
     <div>R</div>
   </div>
-  <div style="display:inline-block; text-align:center; margin-right:20px;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="80" height="80" />
     <div>Git</div>
   </div>
-  <div style="display:inline-block; text-align:center; margin-right:20px;">
+  <div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="80" height="80" />
     <div>GitHub</div>
   </div>
-</p>
+</div>
 
 
 ---
