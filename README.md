@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/parastemkar">
+  <a href="https://www.linkedin.com/in/parastemkar">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/ParasTemkar">
@@ -51,30 +51,34 @@ With hands-on research experience and a solid foundation in biology, I understan
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="60" height="60" />
     <figcaption style="text-align: center; font-size: small;">Babel</figcaption>
   </figure>
-    <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+  <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60" />
     <figcaption style="text-align: center; font-size: small;">npm</figcaption>
   </figure>
-    <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+  <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" />
     <figcaption style="text-align: center; font-size: small;">MySQL</figcaption>
   </figure>
-    <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+  <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" />
     <figcaption style="text-align: center; font-size: small;">Python</figcaption>
   </figure>
-    <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+  <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="60" height="60" />
     <figcaption style="text-align: center; font-size: small;">R</figcaption>
   </figure>
-    <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
+  <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" />
     <figcaption style="text-align: center; font-size: small;">Git</figcaption>
   </figure>
   <figure style="display: inline-block; margin-right: 10px; margin-bottom: 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60" />
-    <figcaption style="text-align: center; font-size: small;">GitHub</figcaption>
-  </figure>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+       alt="GitHub"
+       width="60"
+       height="60"
+       style="filter: drop-shadow(0 0 0 #ffffff);">
+  <figcaption style="text-align: center; font-size: small;">GitHub</figcaption>
+</figure>
 </p>
 
 ---
@@ -115,8 +119,8 @@ With hands-on research experience and a solid foundation in biology, I understan
 
 ## 🤝 Let’s Connect
 
-* 💼 LinkedIn: www.linkedin.com/in/parastemkar
-* 🌐 Portfolio: https://github.com/ParasTemkar
+* 💼 LinkedIn: [www.linkedin.com/in/parastemkar](https://www.linkedin.com/in/parastemkar)
+* 🌐 Portfolio: [github.com/ParasTemkar](https://github.com/ParasTemkar)
 * 📨 Mail: parastemkar@outlook.com
 
 ---
