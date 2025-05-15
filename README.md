@@ -31,14 +31,48 @@ With hands-on research experience and a solid foundation in biology, I understan
 ## 🔧 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" />
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="80" height="80" />
+    <div>HTML5</div>
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="80" height="80" />
+    <div>CSS3</div>
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" />
+    <div>JavaScript</div>
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="80" height="80" />
+    <div>Webpack</div>
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="80" height="80" />
+    <div>Babel</div>
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://cdn.simpleicons.org/mysql/00758F" alt="SQL" width="80" height="80" />
+    <div>SQL</div>
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80" />
+    <div>Python</div>
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://cdn.simpleicons.org/r/276DC3" alt="R" width="80" height="80" />
+    <div>R</div>
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="80" height="80" />
+    <div>Git</div>
+  </div>
+  <div style="display:inline-block; text-align:center; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="80" height="80" />
+    <div>GitHub</div>
+  </div>
 </p>
+
 
 ---
 
